@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# JaeHoChoi
+- - -
+Research Interests
+-------------
+* Radar signal processing
+* Radar-based perception using machine learning
+* Sensor fusion
+
+Contact
+-------------
+* e-mail: jhchoi93@postech.ac.kr
+* google scholar: https://scholar.google.com/citations?user=ywDewK4AAAAJ&hl=ko
+- - -
