@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# JaeHoChoi
+# Jae-Ho Choi
 Research Interests
 -------------
 * Radar signal processing
