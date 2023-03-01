@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Research Interests
 -------------
 * Radar signal processing
-* Radar-based perception using machine learning
+* Wireless sensing
+* Machine learning
 * Sensor fusion
 
 Contact
