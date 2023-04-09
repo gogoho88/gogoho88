@@ -24,6 +24,6 @@ Research Interests
 
 Contact
 -------------
-* e-mail: jhchoi93@postech.ac.kr, gogoho77@gmail.com
+* e-mail: jhochoi@stanford.edu
 * google scholar: https://scholar.google.com/citations?user=ywDewK4AAAAJ&hl=en
 - - -
